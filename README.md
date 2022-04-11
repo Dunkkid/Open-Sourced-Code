@@ -1,2 +1,4 @@
 # Open-Sourced-Code
-Open sourced stuff from Making Bots Fun for the public
+
+
+This code is free for anyone to use as long as you follow the license which is a MIT license.
